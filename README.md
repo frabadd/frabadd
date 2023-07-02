@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @frabadd
-- 🌱 I study Bachelor Computer Science in UGR Granada
-- 👀 I’m currently an Exchange student in RWTH Aachen
+- 🌱 I study the Bachelor Computer Science at UGR Granada
 - 📫 Reach me at e.franpa@go.ugr.es
 
 <!---
