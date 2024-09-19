@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @frabadd
-- 🌱 I study the Bachelor Computer Science at UGR Granada
+- 🌱 I studied the Bachelor of Computer Science at UGR Granada
+- 🤖 Currently pursuing a Master in Applied AI at UC3M Madrid
 - 📫 Reach me at e.franpa@go.ugr.es
 
 <!---
